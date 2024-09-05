@@ -1,7 +1,5 @@
 ---
 layout: page
-title: news
+title: 代表性论著
 permalink: /news/
 ---
-
-{% include news.liquid %}
