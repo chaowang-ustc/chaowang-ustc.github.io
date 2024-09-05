@@ -46,7 +46,7 @@ social: false # includes social icons at the bottom of the page
 
 10. **Chao Wang**, Hengshu Zhu, Chen Zhu, Chuan Qin, Hui Xiong. **SetRank: A Setwise Bayesian Approach for Collaborative Ranking in Recommender System**. ACM Transactions on Information Systems (ACM TOIS), 2023, accepted. (CCF A)
 
-11. Siyuan Hao, Le Dai, Le Zhang, Shengming Zhang, **Chao Wang**, Chuan Qin, and Hui Xiong. Hybrid Heterogeneous Graph Neural Networks for Fund Performance Prediction. In Proceedings of the 16th International Conference on Knowledge Science, Engineering and Management (KSEM-2023), accepted, Guangzhou, China, 2023. (CCF C)
+11. Siyuan Hao, Le Dai, Le Zhang, Shengming Zhang, **Chao Wang**, Chuan Qin, and Hui Xiong. **Hybrid Heterogeneous Graph Neural Networks for Fund Performance Prediction**. In Proceedings of the 16th International Conference on Knowledge Science, Engineering and Management (KSEM-2023), accepted, Guangzhou, China, 2023. (CCF C)
 
 12. Zhi Zheng, **Chao Wang**, Tong Xu, Dazhong Shen, Penggang Qin, Xiangyu Zhao, Baoxing Huai, Xian Wu, and Enhong Chen. **Interaction-aware drug package recommendation via policy gradient**. ACM Transactions on Information Systems (ACM TOIS), 2022, 41(1): 1-32. (CCF A)
 
