@@ -26,7 +26,7 @@ social: false # includes social icons at the bottom of the page
 
 ### 代表性论著
 
-1.Xi Chen, Chuan Qin, Chuyu Fang, Chao Wang, Chen Zhu, Fuzhen Zhuang, Hengshu Zhu, Hui Xiong. Job-SDF: A Multi-Granularity Dataset for Job Skill Demand Forecasting and Benchmarking. The Thirty-eight Conference on Neural Information Processing Systems, (NeurIPS-2024), 2024, accepted. (CCF A)
+1. Xi Chen, Chuan Qin, Chuyu Fang, Chao Wang, Chen Zhu, Fuzhen Zhuang, Hengshu Zhu, Hui Xiong. Job-SDF: A Multi-Granularity Dataset for Job Skill Demand Forecasting and Benchmarking. The Thirty-eight Conference on Neural Information Processing Systems, (NeurIPS-2024), 2024, accepted. (CCF A)
 
 2. Tianfu Wang, Liwei Deng, **Chao Wang**, Jianxun Lian, Yue Yan, Nicholas Jing Yuan, Qi Zhang, Hui Xiong. **COMET: NFT Price Prediction with Wallet Profiling**. ACM SIGKDD Conference on Knowledge Discovery and Data Mining, (KDD-2024), 2024, accepted. (CCF A)
 
