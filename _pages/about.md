@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: '中国科学技术大学人工智能与数据科学学院, 预聘副教授 <br/> Email: chadwang2012@gmail.com'
+subtitle: '中国科学技术大学人工智能与数据科学学院, 预聘副教授 <br/> Email: wangchaoai@ustc.edu.cn'
 profile:
   align: left
   image: avatar.png
