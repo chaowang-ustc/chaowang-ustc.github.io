@@ -34,21 +34,21 @@ His main research areas include data mining, large model applications, graph neu
 
 3. Tianfu Wang, Liwei Deng, **Chao Wang**, Jianxun Lian, Yue Yan, Nicholas Jing Yuan, Qi Zhang, Hui Xiong. COMET: NFT Price Prediction with Wallet Profiling. ACM SIGKDD Conference on Knowledge Discovery and Data Mining, (KDD-2024), 2024, accepted. (CCF A)
 
-4. Leilei Ding, Dazhong Shen, **Chao Wang\* **, Tianfu Wang, Le Zhang, Yanyong Zhang*. DGR: A General Graph Desmoothing Framework for Recommendation via Global and Local Perspectives. The 33rd International Joint Conference on Artificial Intelligence, (IJCAI-2024), 2024, accepted. (CCF A)
+4. Leilei Ding, Dazhong Shen, **Chao Wang\***, Tianfu Wang, Le Zhang, Yanyong Zhang*. DGR: A General Graph Desmoothing Framework for Recommendation via Global and Local Perspectives. The 33rd International Joint Conference on Artificial Intelligence, (IJCAI-2024), 2024, accepted. (CCF A)
 
-5. Tianfu Wang, Qilin Fan, **Chao Wang\* **, Long Yang, Leilei Ding, Nicholas Jing Yuan, Hui Xiong*. FlagVNE: A Flexible and Generalizable Reinforcement Learning Framework for Network Resource Allocation. The 33rd International Joint Conference on Artificial Intelligence, (IJCAI-2024), 2024, accepted. (CCF A)
+5. Tianfu Wang, Qilin Fan, **Chao Wang\***, Long Yang, Leilei Ding, Nicholas Jing Yuan, Hui Xiong*. FlagVNE: A Flexible and Generalizable Reinforcement Learning Framework for Network Resource Allocation. The 33rd International Joint Conference on Artificial Intelligence, (IJCAI-2024), 2024, accepted. (CCF A)
 
 6. Xi Chen, Chuan Qin, Zhigaoyuan Wang, Yihang Cheng, **Chao Wang**, Hengshu Zhu, Hui Xiong. Pre-DyGAE: Pre-training Enhanced Dynamic Graph Autoencoder for Occupational Skill Demand Forecasting. The 33rd International Joint Conference on Artificial Intelligence, (IJCAI-2024), 2024, accepted. (CCF A)
 
-7. Wei Wu, **Chao Wang\* **, Dazhong Shen, Chuan Qin, Liyi Chen, Hui Xiong*. AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering for Recommendations. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, (SIGIR-2024), 2024, accepted. (CCF A)
+7. Wei Wu, **Chao Wang\***, Dazhong Shen, Chuan Qin, Liyi Chen, Hui Xiong*. AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering for Recommendations. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, (SIGIR-2024), 2024, accepted. (CCF A)
 
-8. Yunqin Zhu, **Chao Wang\* **, Qi Zhang, Hui Xiong*. Graph Signal Diffusion Model for Collaborative Filtering. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, (SIGIR-2024), 2024, accepted. (CCF A)
+8. Yunqin Zhu, **Chao Wang\***, Qi Zhang, Hui Xiong*. Graph Signal Diffusion Model for Collaborative Filtering. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, (SIGIR-2024), 2024, accepted. (CCF A)
 
 9. Shuyao Wang, Yongduo Sui, **Chao Wang**, Hui Xiong. Unleashing the Power of Knowledge Graph for Recommendation via Invariant Learning. Proceedings of the 31st World Wide Web Conference (WWW-2024), 2024. (CCF A)
 
 10. Shengzhe Zhang, Liyi Chen, **Chao Wang**, Shuangli Li, Hui Xiong. Temporal Graph Contrastive Learning for Sequential Recommendation. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-2024), 2024, accepted. (CCF A)
 
-11. Shasha Hu, **Chao Wang\* **, Chuan Qin, Hengshu Zhu, and Hui Xiong*. Super-node Generation for GNN-based Recommender Systems: Enhancing Distant Node Integration via Graph Coarsening. The 29th International Conference on Database Systems for Advanced Applications (DASFAA-2024), Gifu, Japan, accepted, 2024. (CCF B)
+11. Shasha Hu, **Chao Wang\***, Chuan Qin, Hengshu Zhu, and Hui Xiong*. Super-node Generation for GNN-based Recommender Systems: Enhancing Distant Node Integration via Graph Coarsening. The 29th International Conference on Database Systems for Advanced Applications (DASFAA-2024), Gifu, Japan, accepted, 2024. (CCF B)
 
 12. **Chao Wang**, Hengshu Zhu, Chen Zhu, Chuan Qin, Hui Xiong. SetRank: A Setwise Bayesian Approach for Collaborative Ranking in Recommender System. ACM Transactions on Information Systems (ACM TOIS), 2023, accepted. (CCF A)
 
