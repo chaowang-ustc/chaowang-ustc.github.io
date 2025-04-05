@@ -29,7 +29,9 @@ His main research areas include data mining, large model applications, graph neu
 
 ### 代表性论著
 
-1. Leilei Ding, Zhipeng Tang, Le Zhang, Dazhong Shen, **Chao Wang**, Ziyang Tao, Jingbo Zhou, Yanyong Zhang, Hui Xiong. Killing two birds with one stone: A Spatio-Temporal Prompt for the Inductive Spatio-Temporal Extrapolation. The 30th International Conference on Database Systems for Advanced Applications (DASFAA-2025), 2025, accepted. (CCF B)
+1. Hanzhe Li, Dazhong Shen, Chao Wang, Yuting Liu and Jingjing Gu. Can LLMs Enhance Fairness in Recommendation Systems? A Data Augmentation Approach. The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, (SIGIR-2025), 2025, accepted. (CCF A)
+
+2. Leilei Ding, Zhipeng Tang, Le Zhang, Dazhong Shen, **Chao Wang**, Ziyang Tao, Jingbo Zhou, Yanyong Zhang, Hui Xiong. Killing two birds with one stone: A Spatio-Temporal Prompt for the Inductive Spatio-Temporal Extrapolation. The 30th International Conference on Database Systems for Advanced Applications (DASFAA-2025), 2025, accepted. (CCF B)
 
 3. Shengzhe Zhang, Liyi Chen, Dazhong Shen, **Chao Wang\***, Hui Xiong*. Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation. Proceedings of the 32nd World Wide Web Conference (WWW-2025), 2025, accepted. (CCF A)
 
