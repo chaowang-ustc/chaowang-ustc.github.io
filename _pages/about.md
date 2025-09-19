@@ -17,11 +17,11 @@ social: false # includes social icons at the bottom of the page
 
 王超，现为中国科学技术大学人工智能与数据科学学院预聘副教授，博导。2016年于中科大少年班学院获学士学位，2022年于中科大计算机学院获博士学位（博士导师熊辉、陈恩红教授），2024年从广州市香港科大霍英东研究院、香港科技大学（广州）博士后出站（合作导师王炜教授）。
 
-主要研究方向为数据挖掘、大模型应用、图神经网络、推荐系统等领域。近年来承担多项科研项目，包括国家自然科学基金青年基金C类、安徽省自然科学基金青年基金C类、CCF-1688源宝合作基金、国家博士后面上基金、地方政府博士后科研项目2项，作为项目骨干参与科技部重点研发项目1项。在相关领域国际重要期刊及会议发表论文30余篇，其中以第一作者及通讯作者身份发表CCF推荐的A类期刊和会议论文10余篇，已公开专利7项。曾获得中国计算机学会CCF优秀博士学位论文激励计划（CCF优博，每年仅10人）、《中国科学：信息科学》2022年度热点论文（每年4篇）、中科院院长优秀奖、ICML Workshop best paper等荣誉。
+主要研究方向为数据挖掘、大模型应用、图神经网络、推荐系统等领域。近年来承担多项科研项目，包括国家自然科学基金青年基金C类、安徽省自然科学基金青年基金C类、CCF-1688源宝合作基金、国家博士后面上基金、地方政府博士后科研项目2项，作为项目骨干参与科技部重点研发项目1项。在相关领域国际重要期刊及会议发表论文30余篇，其中以第一作者及通讯作者身份发表CCF推荐的A类期刊和会议论文10余篇，已公开专利7项。曾获得中国计算机学会CCF优秀博士学位论文激励计划（CCF优博，每年仅10人）、《中国科学：信息科学》2022年度热点论文（每年4篇）、翟光龙学者基金、ICML Workshop best paper等荣誉。
 
 Chao Wang is currently an Assistant Professor and doctoral supervisor at the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC). He received his bachelor's degree from the School of the Gifted Young at USTC in 2016, his Ph.D. degree from the School of Computer Science at USTC in 2022 (supervised by Prof. Hui Xiong and Prof. Enhong Chen), and completed his postdoctoral research at the Henry Fok Institute of HKUST in Guangzhou and HKUST (Guangzhou) in 2024, working with Prof. Wei Wang.
 
-His main research interests include data mining, large model applications, graph neural networks, and recommendation systems. In recent years, he has undertaken multiple research projects, including the National Natural Science Foundation of China (NSFC) Youth Fund (Category C), Anhui Provincial Natural Science Foundation Youth Fund (Category C), CCF-1688 Yuanbao Collaboration Fund, National Postdoctoral General Fund, two local government postdoctoral research projects, and participated as a key member in one Ministry of Science and Technology key R&D project. He has published over 30 papers in important international journals and conferences in related fields, including over 10 papers as first or corresponding author in CCF-recommended Category A journals and conferences, with 7 published patents. He has received honors including the CCF Outstanding Doctoral Dissertation Award (CCF Outstanding Ph.D., only 10 recipients annually), "Science China Information Sciences" 2022 Annual Hot Paper (4 papers annually), CAS President's Excellence Award, and ICML Workshop Best Paper Award.
+His main research interests include data mining, large model applications, graph neural networks, and recommendation systems. In recent years, he has undertaken multiple research projects, including the National Natural Science Foundation of China (NSFC) Youth Fund (Category C), Anhui Provincial Natural Science Foundation Youth Fund (Category C), CCF-1688 Yuanbao Collaboration Fund, National Postdoctoral General Fund, two local government postdoctoral research projects, and participated as a key member in one Ministry of Science and Technology key R&D project. He has published over 30 papers in important international journals and conferences in related fields, including over 10 papers as first or corresponding author in CCF-recommended Category A journals and conferences, with 7 published patents. He has received honors including the CCF Outstanding Doctoral Dissertation Award (CCF Outstanding Ph.D., only 10 recipients annually), "Science China Information Sciences" 2022 Annual Hot Paper (4 papers annually), Zhaiguanglong Scholar Fund, and ICML Workshop Best Paper Award.
 
 
 
@@ -31,7 +31,9 @@ His main research interests include data mining, large model applications, graph
 
 ### 代表性论著
 
-1.	Wei Wu, **Chao Wang\***, Liyi Chen, Mingze Yin, Yiheng Zhu, Kun Fu, Jieping Ye, Hui Xiong, Zheng Wang. Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding with LLMs. ACM SIGKDD Conference on Knowledge Discovery and Data Mining, (KDD-2025), 2025, accepted. (CCF A)
+1.	 <u>**Chao Wang\***, Yixin Song</u>, Jinhui Ye, Chuan Qin, Dazhong Shen, Lingfeng Liu, Xiang Wang, Yanyong Zhang. FACE: A general Framework for Mapping Collaborative Filtering Embeddings into LLM Tokens. The Thirty-ninth Annual Conference on Neural Information Processing Systems, (NeurIPS-2025), 2025, accepted. (CCF A)
+2.	Wei Wu, Zhuoshi Pan, Kun Fu, **Chao Wang**, Liyi Chen, Yunchu Bai, Tianfu Wang, Zheng Wang, Hui Xiong. TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection. The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP -2025), 2025, accepted. (CCF B)
+3.	Wei Wu, **Chao Wang\***, Liyi Chen, Mingze Yin, Yiheng Zhu, Kun Fu, Jieping Ye, Hui Xiong, Zheng Wang. Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding with LLMs. ACM SIGKDD Conference on Knowledge Discovery and Data Mining, (KDD-2025), 2025, accepted. (CCF A)
 
 2. Hanzhe Li, Dazhong Shen, **Chao Wang**, Yuting Liu and Jingjing Gu. Can LLMs Enhance Fairness in Recommendation Systems? A Data Augmentation Approach. The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, (SIGIR-2025), 2025, accepted. (CCF A)
 
@@ -94,4 +96,5 @@ His main research interests include data mining, large model applications, graph
 31. Runlong Yu, Yunzhou Zhang, Yuyang Ye, Le Wu, **Chao Wang**, Qi Liu, Enhong Chen. Multiple pairwise ranking with implicit feedback. Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM-2018). 2018: 1727-1730. (CCF B)
 
 32. **Chao Wang**, Qi Liu, Enhong Chen, Zhenya Huang, Tianyu Zhu, Yu Su, Guoping Hu. The Rapid Calculation Method of DINA Model for Large Scale Cognitive Diagnosis. [**王超**，刘淇，陈恩红，黄振亚，朱天宇，苏喻，胡国平，面向大规模认知诊断的DINA模型快速计算方法研究, 电子学报，46(5):1047-1055，2018]. (CCF A 中文核心)
+
 
