@@ -31,7 +31,7 @@ His main research interests include data mining, large model applications, graph
 
 ### 代表性论著
 
-1.	 <u>**Chao Wang\***, Yixin Song</u>, Jinhui Ye, Chuan Qin, Dazhong Shen, Lingfeng Liu, Xiang Wang, Yanyong Zhang. FACE: A general Framework for Mapping Collaborative Filtering Embeddings into LLM Tokens. The Thirty-ninth Annual Conference on Neural Information Processing Systems, (NeurIPS-2025), 2025, accepted. (CCF A)
+1.	 <u> **Chao Wang\*** </u>, <u> Yixin Song </u>, Jinhui Ye, Chuan Qin, Dazhong Shen, Lingfeng Liu, Xiang Wang, Yanyong Zhang. FACE: A general Framework for Mapping Collaborative Filtering Embeddings into LLM Tokens. The Thirty-ninth Annual Conference on Neural Information Processing Systems, (NeurIPS-2025), 2025, accepted. (CCF A)
 2.	Wei Wu, Zhuoshi Pan, Kun Fu, **Chao Wang**, Liyi Chen, Yunchu Bai, Tianfu Wang, Zheng Wang, Hui Xiong. TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection. The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP -2025), 2025, accepted. (CCF B)
 3.	Wei Wu, **Chao Wang\***, Liyi Chen, Mingze Yin, Yiheng Zhu, Kun Fu, Jieping Ye, Hui Xiong, Zheng Wang. Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding with LLMs. ACM SIGKDD Conference on Knowledge Discovery and Data Mining, (KDD-2025), 2025, accepted. (CCF A)
 
@@ -96,5 +96,6 @@ His main research interests include data mining, large model applications, graph
 31. Runlong Yu, Yunzhou Zhang, Yuyang Ye, Le Wu, **Chao Wang**, Qi Liu, Enhong Chen. Multiple pairwise ranking with implicit feedback. Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM-2018). 2018: 1727-1730. (CCF B)
 
 32. **Chao Wang**, Qi Liu, Enhong Chen, Zhenya Huang, Tianyu Zhu, Yu Su, Guoping Hu. The Rapid Calculation Method of DINA Model for Large Scale Cognitive Diagnosis. [**王超**，刘淇，陈恩红，黄振亚，朱天宇，苏喻，胡国平，面向大规模认知诊断的DINA模型快速计算方法研究, 电子学报，46(5):1047-1055，2018]. (CCF A 中文核心)
+
 
 
