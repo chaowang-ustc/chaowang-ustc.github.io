@@ -31,9 +31,9 @@ His main research interests include data mining, large model applications, graph
 
 ### 代表性论著
 
-1.	Lingfeng Liu, Yixin Song, Dazhong Shen, Bing Yin, Hao Li, Yanyong Zhang, **Chao Wang#\***. Rethinking Popularity Bias in Collaborative Filtering via Analytical Vector Decomposition. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-2026), 2026, accepted. (CCF A)
+1.	Lingfeng Liu, Yixin Song, Dazhong Shen, Bing Yin, Hao Li, Yanyong Zhang, **Chao Wang\***. Rethinking Popularity Bias in Collaborative Filtering via Analytical Vector Decomposition. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-2026), 2026, accepted. (CCF A)
 
-2.	Yongwen Ren, **Chao Wang#\***, Peng Du, Chuan Qin, Dazhong Shen, Hui Xiong*. Enhancing Conversational Recommender Systems with Tree-Structured Knowledge and Pretrained Language Models. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-2026), 2026, accepted. (CCF A)
+2.	Yongwen Ren, **Chao Wang\***, Peng Du, Chuan Qin, Dazhong Shen, Hui Xiong*. Enhancing Conversational Recommender Systems with Tree-Structured Knowledge and Pretrained Language Models. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-2026), 2026, accepted. (CCF A)
 
 3.	**Chao Wang#\***, Yixin Song#, Jinhui Ye, Chuan Qin, Dazhong Shen, Lingfeng Liu, Xiang Wang, Yanyong Zhang. FACE: A general Framework for Mapping Collaborative Filtering Embeddings into LLM Tokens. The Thirty-ninth Annual Conference on Neural Information Processing Systems, (NeurIPS-2025), 2025, accepted. (CCF A)
   
@@ -102,6 +102,7 @@ His main research interests include data mining, large model applications, graph
 35. Runlong Yu, Yunzhou Zhang, Yuyang Ye, Le Wu, **Chao Wang**, Qi Liu, Enhong Chen. Multiple pairwise ranking with implicit feedback. Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM-2018). 2018: 1727-1730. (CCF B)
 
 36. **Chao Wang**, Qi Liu, Enhong Chen, Zhenya Huang, Tianyu Zhu, Yu Su, Guoping Hu. The Rapid Calculation Method of DINA Model for Large Scale Cognitive Diagnosis. [**王超**，刘淇，陈恩红，黄振亚，朱天宇，苏喻，胡国平，面向大规模认知诊断的DINA模型快速计算方法研究, 电子学报，46(5):1047-1055，2018]. (CCF A 中文核心)
+
 
 
 
