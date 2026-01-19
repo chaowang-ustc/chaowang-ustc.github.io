@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 
 王超，现为中国科学技术大学人工智能与数据科学学院预聘副教授，博导。2016年于中科大少年班学院获学士学位，2022年于中科大计算机学院获博士学位（博士导师熊辉、陈恩红教授），2024年从广州市香港科大霍英东研究院、香港科技大学（广州）博士后出站（合作导师王炜教授）。
 
-主要研究方向为数据挖掘、大模型应用、图神经网络、推荐系统等领域。近年来承担多项科研项目，包括国家自然科学基金青年基金C类、安徽省自然科学基金青年基金C类、认知智能全国重点实验室开放课题、CCF-阿里1688源宝合作基金、国家博士后面上基金、地方政府博士后科研项目等，作为项目课题负责人参与新一代人工智能重大科技专项1项。在相关领域国际重要期刊及会议发表论文30余篇，其中以第一作者及通讯作者身份发表CCF推荐的A类期刊和会议论文10余篇，已公开专利7项。曾获得中国计算机学会CCF优秀博士学位论文激励计划（CCF优博，每年仅10人）、《中国科学：信息科学》2022年度热点论文（每年4篇）、翟光龙学者基金、ICML Workshop best paper等荣誉。
+主要研究方向为数据挖掘、大模型应用、图神经网络、推荐系统等领域。近年来承担多项科研项目，包括国家自然科学基金青年基金C类、安徽省自然科学基金青年基金C类、认知智能全国重点实验室开放课题、CCF-阿里1688源宝合作基金、国家博士后面上基金、地方政府博士后科研项目等，作为项目子课题负责人参与新一代人工智能重大科技专项1项。在相关领域国际重要期刊及会议发表论文30余篇，其中以第一作者及通讯作者身份发表CCF推荐的A类期刊和会议论文10余篇，已公开专利7项。曾获得中国计算机学会CCF优秀博士学位论文激励计划（CCF优博，每年仅10人）、《中国科学：信息科学》2022年度热点论文（每年4篇）、翟光龙学者基金、ICML Workshop best paper等荣誉。
 
 Chao Wang is currently an Associate Professor (pre-tenure) and doctoral supervisor at the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC). He received his bachelor's degree from the School of the Gifted Young at USTC in 2016, his Ph.D. degree from the School of Computer Science at USTC in 2022 (supervised by Prof. Hui Xiong and Prof. Enhong Chen), and completed his postdoctoral research at the Henry Fok Institute of HKUST in Guangzhou and HKUST (Guangzhou) in 2024, working with Prof. Wei Wang.
 
@@ -106,6 +106,7 @@ His main research interests include data mining, large model applications, graph
 37. Runlong Yu, Yunzhou Zhang, Yuyang Ye, Le Wu, **Chao Wang**, Qi Liu, Enhong Chen. Multiple pairwise ranking with implicit feedback. Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM-2018). 2018: 1727-1730. (CCF B)
 
 38. **Chao Wang**, Qi Liu, Enhong Chen, Zhenya Huang, Tianyu Zhu, Yu Su, Guoping Hu. The Rapid Calculation Method of DINA Model for Large Scale Cognitive Diagnosis. [**王超**，刘淇，陈恩红，黄振亚，朱天宇，苏喻，胡国平，面向大规模认知诊断的DINA模型快速计算方法研究, 电子学报，46(5):1047-1055，2018]. (CCF A 中文核心)
+
 
 
 
