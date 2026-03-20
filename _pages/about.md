@@ -31,7 +31,7 @@ His main research interests include data mining, large model applications, graph
 
 ### 代表性论著
 
-1.	Peng Du, YongWen Ren, Hui Liao, Hao Li, Hui Xiong, Chao Wang*. FLAME: Improving Legal Case Retrieval through Factor-aware Graph Modeling and Mixture-of-Experts. Frontiers of Computer Science (FCS), 2026, accepted. (CCF B) 
+1.	Peng Du, YongWen Ren, Hui Liao, Hao Li, Hui Xiong, **Chao Wang\***. FLAME: Improving Legal Case Retrieval through Factor-aware Graph Modeling and Mixture-of-Experts. Frontiers of Computer Science (FCS), 2026, accepted. (CCF B) 
 
 2. Yunchu Bai, **Chao Wang\***, Ying Sun, Chuan Qin, Wei Wu, Hui Xiong*. Graph-based Prompt Learning with Mixture of Experts for Multi-task Corporate Profiling. ACM Transactions on Knowledge Discovery from Data, (ACM TKDD), 2026, accepted. (CCF B)
 
