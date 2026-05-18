@@ -119,7 +119,7 @@ His research interests mainly include data mining, applications of large languag
 
 45. Chengqiang Lu, Qi Liu, **Chao Wang**, Zhenya Huang, Peize Lin, Lixin He. Molecular property prediction: A multilevel quantum interactions modeling perspective. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-2019). 2019, 33(01): 1052-1060. (CCF A)
 
-46. Xiaoqing Huang, Qi Liu, **Chao Wang**, Haoyu Han, Jianhui Ma, Enhong Chen. Constructing Educational Concept Maps with Multiple Relationships from Multi-source Data. 2019 IEEE International Conference on Data Mining (ICDM-2019). IEEE, 2019: 1108-1113. (CCF B)
+46. Xiaoqing Huang, Qi Liu, **Chao Wang**, Haoyu Han, Jianhui Ma, Enhong Chen, Yu Su, Shijin Wang. Constructing Educational Concept Maps with Multiple Relationships from Multi-source Data. 2019 IEEE International Conference on Data Mining (ICDM-2019). IEEE, 2019: 1108-1113. (CCF B)
 
 47. **Chao Wang**, Qi Liu, Runze Wu, Enhong Chen, Chuanren Liu, Xunpeng Huang, Zhenya Huang. Confidence-aware matrix factorization for recommender systems. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-2018). 2018, 32(1). (CCF A)
 
