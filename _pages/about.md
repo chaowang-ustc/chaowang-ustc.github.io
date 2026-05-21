@@ -41,7 +41,7 @@ His research interests mainly include data mining, applications of large languag
 
 6. Jiaming Leng, Yunying Bi, Chuan Qin, Zhenya Huang, Bing Yin, Haojie Ren, Yanyong Zhang*, **Chao Wang\***. TransLLM: A Unified Multi-Task Large Language Model for Urban Transportation via Learnable Prompting. The 64th Annual Meeting of the Association for Computational Linguistics (ACL-2026), 2026, accepted. (CCF A)
 
-7. Xi Chen, Chuan Qin, Jinpeng Li, Shasha Hu, Chao Wang, Hengshu Zhu, Hui Xiong. GenDis: Generative-Discriminative Dual-View Co-Training for Generalized Category Discovery. The 64th Annual Meeting of the Association for Computational Linguistics (ACL-2026), 2026, accepted. (CCF A)
+7. Xi Chen, Chuan Qin, Jinpeng Li, Shasha Hu, **Chao Wang**, Hengshu Zhu, Hui Xiong. GenDis: Generative-Discriminative Dual-View Co-Training for Generalized Category Discovery. The 64th Annual Meeting of the Association for Computational Linguistics (ACL-2026), 2026, accepted. (CCF A)
 
 8. YanShen Yi, **Chao Wang\***, Ying Sun, Qi Zhang, Xunpeng Huang, Hui Xiong*. Enhancing Fund Recommendations with Multi-round Feedback-based Reinforcement Learning. Frontiers of Computer Science (FCS), 2026, accepted. (CCF B)
 
