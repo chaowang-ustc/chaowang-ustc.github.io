@@ -31,7 +31,7 @@ His research interests mainly include data mining, applications of large languag
 
 1. Zhiheng Song, Jingshuai Zhang, Chuan Qin, **Chao Wang**, Chao Chen, Longfei Xu, Kaikui Liu, Xiangxiang Chu, Hengshu Zhu. MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios. 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-2026), 2026, accepted. (CCF A)
 
-2. Junjie Meng, Ranxu zhang, Zian Zhang, liu shujun, Xiaoning Qi, Xiaozhou Xu, Yanyong Zhang, Hui Xiong, **Chao Wang\***. CEDAR: Controlled and Event-Driven Demand Forecasting via Residual Decomposition. 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-2026), 2026, accepted. (CCF A)
+2. Junjie Meng, Ranxu zhang, Zian Zhang, Shujun Liu, Xiaoning Qi, Xiaozhou Xu, Yanyong Zhang, Hui Xiong, **Chao Wang\***. CEDAR: Controlled and Event-Driven Demand Forecasting via Residual Decomposition. 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-2026), 2026, accepted. (CCF A)
 
 3. Yunqian Yang, Qi Zhang, Shijin Wang, Yanyong Zhang, **Chao Wang\***. CoGen: A Two-Stage Unified Multi-modal Framework for Bundle Construction via Discrete Semantics Transfer. 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-2026), 2026, accepted. (CCF A)
 
