@@ -43,9 +43,9 @@ His research interests mainly include data mining, applications of large languag
 
 7. Xi Chen, Chuan Qin, Jinpeng Li, Shasha Hu, **Chao Wang**, Hengshu Zhu, Hui Xiong. GenDis: Generative-Discriminative Dual-View Co-Training for Generalized Category Discovery. The 64th Annual Meeting of the Association for Computational Linguistics (ACL-2026), 2026, accepted. (CCF A)
 
-8. YanShen Yi, **Chao Wang\***, Ying Sun, Qi Zhang, Xunpeng Huang, Hui Xiong*. Enhancing Fund Recommendations with Multi-round Feedback-based Reinforcement Learning. Frontiers of Computer Science (FCS), 2026, accepted. (CCF B)
+8. Yanshen Yi, **Chao Wang\***, Ying Sun, Qi Zhang, Xunpeng Huang, Hui Xiong*. Enhancing Fund Recommendations with Multi-round Feedback-based Reinforcement Learning. Frontiers of Computer Science (FCS), 2026, accepted. (CCF B)
 
-9.	Peng Du, YongWen Ren, Hui Liao, Hao Li, Hui Xiong, **Chao Wang\***. FLAME: Improving Legal Case Retrieval through Factor-aware Graph Modeling and Mixture-of-Experts. Frontiers of Computer Science (FCS), 2026, accepted. (CCF B) 
+9. Peng Du, Yongwen Ren, Hui Liao, Hao Li, Hui Xiong, **Chao Wang\***. FLAME: Improving Legal Case Retrieval through Factor-aware Graph Modeling and Mixture-of-Experts. Frontiers of Computer Science (FCS), 2026, accepted. (CCF B) 
 
 10. Yunchu Bai, **Chao Wang\***, Ying Sun, Chuan Qin, Wei Wu, Hui Xiong*. Graph-based Prompt Learning with Mixture of Experts for Multi-task Corporate Profiling. ACM Transactions on Knowledge Discovery from Data, (ACM TKDD), 2026, accepted. (CCF B)
 
