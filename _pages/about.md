@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 
 王超，现为中国科学技术大学人工智能与数据科学学院预聘副教授，博导。2016年于中科大少年班学院获学士学位，2022年于中科大计算机学院获博士学位（博士导师熊辉、陈恩红教授），2024年从广州市香港科大霍英东研究院、香港科技大学（广州）博士后出站（合作导师王炜教授）。
 
-主要研究方向为数据挖掘、大模型应用、图神经网络、推荐系统等领域。近年来承担多项科研项目，包括国家自然科学基金青年基金C类、安徽省自然科学基金青年基金C类、认知智能全国重点实验室开放课题、CCF-阿里1688源宝合作基金、国家博士后面上基金等，作为项目子课题负责人参与新一代人工智能重大科技专项1项。在相关领域国际重要期刊及会议发表论文40余篇，已授权专利4项。曾获得中国计算机学会CCF优秀博士学位论文激励计划（CCF优博，每年仅10人）、《中国科学：信息科学》2022年度热点论文、翟光龙学者基金等荣誉。
+主要研究方向为数据挖掘、个性化智能体、大语言模型、推荐系统等领域。近年来承担多项科研项目，包括国家自然科学基金青年基金C类、安徽省自然科学基金青年基金C类、认知智能全国重点实验室开放课题、CCF-阿里1688源宝合作基金、国家博士后面上基金等，作为项目子课题负责人参与新一代人工智能重大科技专项1项。在相关领域CCF-A类国际期刊及会议发表论文30余篇，已授权专利4项。曾获得中国计算机学会CCF优秀博士学位论文激励计划（CCF优博，每年仅10人）、《中国科学：信息科学》2022年度热点论文、翟光龙学者基金等荣誉。
 
 Wang Chao is currently a Tenure-track Associate Professor and Ph.D. Supervisor at the School of Artificial Intelligence and Data Science, University of Science and Technology of China. He received his bachelor’s degree from the School of the Gifted Young, USTC, in 2016, and his Ph.D. degree from the School of Computer Science and Technology, USTC, in 2022, under the supervision of Professors Hui Xiong and Enhong Chen. In 2024, he completed his postdoctoral research at the HKUST Fok Ying Tung Research Institute in Guangzhou and the Hong Kong University of Science and Technology (Guangzhou), under the mentorship of Professor Wei Wang.
 
