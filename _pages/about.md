@@ -29,7 +29,7 @@ His research interests include data mining, personalized intelligent agents, lar
 
 ### 代表性论著
 
-- VERDICT: Verifiable Evolving Reasoning with Directive-Informed Collegial Teams for Legal Judgment Prediction. Hui Liao, Chuan Qin, Yongwen Ren, Hao Li, Zhenya Huang, Yanyong Zhang, **Chao Wang\***. The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP Fingdings 2026) , 2026, accepted.
+-  Hui Liao, Chuan Qin, Yongwen Ren, Hao Li, Zhenya Huang, Yanyong Zhang, **Chao Wang\***. VERDICT: Verifiable Evolving Reasoning with Directive-Informed Collegial Teams for Legal Judgment Prediction. The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP Fingdings 2026), 2026, accepted.
 
 - Jinghong Liu, Qi Zhang, Hui Xiong* and **Chao Wang\***. GPCDR: A General Graph Prompting Framework to Adapt Single-Domain Models for Cross-Domain Recommendation. The 35th International ACM Conference on Knowledge and Information Management (CIKM 2026) , 2026, accepted. (CCF B)
 
