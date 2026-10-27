@@ -29,7 +29,7 @@ His research interests include data mining, personalized intelligent agents, lar
 
 ### 代表性论著
 
-- Sulei Hu, Xingao Gong, Duyu Chen, Jingguo Li, Qiyu Kang, Yongliang Jiang, Chenhui Peng, Shoucong Ning, Qiangqiang Gu, Jinzhe Zeng, Chao Wang, Fuli Feng. From Multiscale Emergence to Testable Intervention. Precision Chemistry, 2026, accepted.
+- Sulei Hu, Xingao Gong, Duyu Chen, Jingguo Li, Qiyu Kang, Yongliang Jiang, Chenhui Peng, Shoucong Ning, Qiangqiang Gu, Jinzhe Zeng, **Chao Wang**, Fuli Feng. From Multiscale Emergence to Testable Intervention. Precision Chemistry, 2026, accepted.
 
 - Hui Liao, Chuan Qin, Yongwen Ren, Hao Li, Zhenya Huang, Yanyong Zhang, **Chao Wang\***. VERDICT: Verifiable Evolving Reasoning with Directive-Informed Collegial Teams for Legal Judgment Prediction. The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP Fingdings 2026), 2026, accepted.
 
